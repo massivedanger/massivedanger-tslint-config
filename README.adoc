@@ -1,0 +1,19 @@
+= Massive Danger TSLint Config
+
+Just a simple extension of the recommended TSLint config to suit my tastes.
+
+== Changes from the Recommended rules
+
+* Requires newline at end of file
+* Interface names are never prefixed
+* Member access is always explicit
+* No namespaces
+* No string literal access
+* Object literal key quotes are only used as needed
+* No object literal key sorting
+* `catch`, `finally`, and `else` are on the same line as the preceding braces
+* String templates are prefered for concatenation, but simple, two-string concatenation is allowed
+* Single quotes are used, but escaping should be avoided
+* No semicolons ever
+* Always put spaces before function definitions
+* No trailing commas

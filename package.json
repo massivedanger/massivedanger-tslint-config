@@ -1,0 +1,12 @@
+{
+  "name": "massivedanger-tslint-config",
+  "version": "1.0.0",
+  "description": "Massive Danger TSLint config",
+  "main": "massivedanger-tslint.json",
+  "author": "Evan Walsh <evan@massivedanger.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/massivedanger/massivedanger-tslint-config.git"
+  }
+}
